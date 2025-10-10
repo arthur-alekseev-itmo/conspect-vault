@@ -4,53 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "0c902ade9012c4ca",
+        "id": "49f245d28e91b321",
         "type": "tabs",
         "children": [
           {
-            "id": "7f85a9877a99c025",
+            "id": "ab63ec7478127aa9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "meetings/2025-10-05.md",
-                "mode": "source",
-                "source": false
+                "file": "attachments/Bidirectional Typing.pdf"
               },
-              "icon": "lucide-file",
-              "title": "2025-10-05"
+              "icon": "lucide-file-text",
+              "title": "Bidirectional Typing"
             }
           },
           {
-            "id": "e39cf5e7bb99fe30",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "meetings/2025-10-05.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2025-10-05"
-            }
-          },
-          {
-            "id": "503df924ae39bd00",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "meetings/2025-10-05.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2025-10-05"
-            }
-          },
-          {
-            "id": "7b030d6d22fe68fe",
+            "id": "c8a87ee8479c62a2",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -64,21 +34,31 @@
             }
           },
           {
-            "id": "46568e1ba642ecf6",
+            "id": "ece4753668fc4dac",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "meetings/2025-10-05.md",
-                "mode": "source",
-                "source": false
+                "file": "attachments/one-plus-one.pdf"
               },
-              "icon": "lucide-file",
-              "title": "2025-10-05"
+              "icon": "lucide-file-text",
+              "title": "one-plus-one"
+            }
+          },
+          {
+            "id": "95d78c5bf7c3b801",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "attachments/fp2.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "fp2"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -135,7 +115,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "c1e9bfdf80fb7292",
@@ -228,14 +208,22 @@
   },
   "active": "ef275b418f91c67a",
   "lastOpenFiles": [
-    "attachments/Bidirectional Typing.pdf",
-    "meetings/attachments",
+    "Вопросы.md",
     "Материалы.md",
-    "attachments/fp2.pdf",
-    "attachments/one-plus-one.pdf",
-    "meetings/2025-10-05.md",
     "Meta.md",
+    "knowledge/Type systems and inference.md",
+    "attachments/Bidirectional Typing.pdf",
+    "attachments/one-plus-one.pdf",
+    "knowledge/GLB, LUB, Covariance, Contravariance, Invariance.md",
     "attachments/Local Type Inference.pdf",
+    "attachments/fp2.pdf",
+    "attachments/pasted/Pasted image 20251010144947.png",
+    "attachments/pasted/Pasted image 20251010144809.png",
+    "attachments/pasted/Pasted image 20251010144332.png",
+    "attachments/pasted",
+    "knowledge",
+    "Untitled.canvas",
+    "meetings/2025-10-05.md",
     "attachments",
     "meetings",
     "Welcome.md"
