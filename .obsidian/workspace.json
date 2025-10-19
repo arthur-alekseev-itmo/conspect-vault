@@ -11,26 +11,26 @@
             "id": "ab63ec7478127aa9",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "attachments/Bidirectional Typing.pdf"
+                "file": "Вопросы.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Bidirectional Typing"
+              "icon": "lucide-file",
+              "title": "Вопросы"
             }
           },
           {
             "id": "c8a87ee8479c62a2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Материалы.md",
-                "mode": "source",
-                "source": false
+                "file": "attachments/Local Type Inference.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Материалы"
+              "icon": "lucide-file-text",
+              "title": "Local Type Inference"
             }
           },
           {
@@ -51,14 +51,28 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "attachments/fp2.pdf"
+                "file": "attachments/Bidirectional Typing.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "fp2"
+              "title": "Bidirectional Typing"
+            }
+          },
+          {
+            "id": "4600c331626e3c60",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "knowledge/GLB, LUB, Covariance, Contravariance, Invariance.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "GLB, LUB, Covariance, Contravariance, Invariance"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -206,16 +220,20 @@
       "bases:Create new base": false
     }
   },
-  "active": "ef275b418f91c67a",
+  "active": "4600c331626e3c60",
   "lastOpenFiles": [
-    "Вопросы.md",
-    "Материалы.md",
-    "Meta.md",
-    "knowledge/Type systems and inference.md",
     "attachments/Bidirectional Typing.pdf",
     "attachments/one-plus-one.pdf",
     "knowledge/GLB, LUB, Covariance, Contravariance, Invariance.md",
     "attachments/Local Type Inference.pdf",
+    "Вопросы.md",
+    "meetings/2025-10-10.md",
+    "meetings/2025-10-05.md",
+    "attachments/21 Capturing Types.pdf",
+    "attachments/DE004700493F12F4278F9C125794400312A0B.pdf",
+    "Материалы.md",
+    "knowledge/Type systems and inference.md",
+    "Meta.md",
     "attachments/fp2.pdf",
     "attachments/pasted/Pasted image 20251010144947.png",
     "attachments/pasted/Pasted image 20251010144809.png",
@@ -223,7 +241,6 @@
     "attachments/pasted",
     "knowledge",
     "Untitled.canvas",
-    "meetings/2025-10-05.md",
     "attachments",
     "meetings",
     "Welcome.md"
